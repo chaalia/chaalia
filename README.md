@@ -4,10 +4,10 @@
 
  I'm a  Full Stack Web Django  Developer.
 
-- 🔭 I’m currently working on building a trading platform.
+- 🔭 I’m currently working as a Django developer.
 - 🌱 I’m currently learning ReactJS 
 <br />
-### Languages and Tools:
+<h2> Languages and Tools: </h2>
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/38113942/115968039-982b0680-a52d-11eb-8dfc-69753ce0db90.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/38113942/115967881-fe635980-a52c-11eb-8d64-4e8c87e93e17.png" />
