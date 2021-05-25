@@ -1,16 +1,24 @@
-### Hi there 👋
-
-<!--
-**chaalia/chaalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+<h3> Hi , I'm  <a href="https://www.linkedin.com/in/rjab-chaalia-045a86b6/" target="_blank"> Rjab Chaalia</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h3>
+
+ I'm a  Full Stack Web Django  Developer.
+
+- 🔭 I’m currently working on building a trading platform.
+- 🌱 I’m currently learning ReactJS 
+<br />
+<i class="fa fa-docker"></i>
+### Languages and Tools:
+[<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/38113942/115968039-982b0680-a52d-11eb-8dfc-69753ce0db90.png" />][linkedin]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
+[<img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/38113942/115967881-fe635980-a52c-11eb-8d64-4e8c87e93e17.png" />][linkedin]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
+<br>
+
+---
+
+![Rjab's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaalia&show_icons=true&count_private=true)
+
+[linkedin]: https://www.linkedin.com/in/rjab-chaalia-045a86b6
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaalia&layout=compact&langs_count=8)](https://github.com/chaalia/github-readme-stats)
